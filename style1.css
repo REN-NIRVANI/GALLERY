@@ -18,7 +18,6 @@ header{
     align-items: center;
     position: relative;
     z-index: 100;
-    font-size: 13px;
 }
 header a{
     color: #eee;
